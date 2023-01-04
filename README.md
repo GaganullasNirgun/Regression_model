@@ -11,15 +11,15 @@ Assignment questions and conclusions :
 1. Which are the top three variables in your model which contribute most towards the probability of a lead getting 
 converted?
 Solution -> Top Three variables that contribute more towards the probability of lead getting converted are:
-Tags_Closed by Horizzon
-Tags_Lost to EINS
+Tags_Closed by Horizzon,
+Tags_Lost to EINS,
 Tags_Will revert after reading the email
 
 2. What are the top 3 categorical/dummy variables in the model which should be focused the most on to increase the 
 probability of lead conversion?
 Solution -> Top 3 categorical/dummy variables:
-Tags_Closed by Horizzon
-Tags_Lost to EINS
+Tags_Closed by Horizzon,
+Tags_Lost to EINS,
 Tags_Will revert after reading the email
 
 3. X Education has a period of 2 months every year during which they hire some interns. The sales team, in particular, 
@@ -30,10 +30,10 @@ should employ at this stage.
 Solution -> A good strategy would be to employ at this stage should be to go for a low threshold value of the model because 
 we get high Sensitivity which means there will be a high percentage of the Total No. of conversions for that 2 months 
 duration. Also, we can focus on other variables such as:
-Tags_Closed by Horizon 
-Tags_Lost to EINS 
-Tags_Will revert after reading the email 
-Lead Source_Welingak Website 
+Tags_Closed by Horizon,
+Tags_Lost to EINS,
+Tags_Will revert after reading the email,
+Lead Source_Welingak Website, 
 Last Activity_SMS Sent 
 
 4. Similarly, at times, the company reaches its target for a quarter before the deadline. During this time, the company 
